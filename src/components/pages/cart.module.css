@@ -1,7 +1,7 @@
 .cartContainer {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   min-height: calc(100vh - 88px);
 }
 
